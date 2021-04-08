@@ -1,4 +1,4 @@
-package com.soon.cording;
+package com.soon.cording.그리디;
 
 import java.util.Arrays;
 import java.util.Scanner;
