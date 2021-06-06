@@ -32,5 +32,6 @@ public class BaekJoon13305 {
 
         System.out.println(result);
 
+
     }
 }
