@@ -1,4 +1,4 @@
-package com.soon.cording.그래프;
+package com.soon.cording.백트래킹;
 
 import java.io.BufferedReader;
 import java.io.IOException;
